@@ -1,0 +1,23 @@
+{
+  "name": "javascript-prototype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promise.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/way-js/javascript-prototype.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/way-js/javascript-prototype/issues"
+  },
+  "homepage": "https://github.com/way-js/javascript-prototype#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
